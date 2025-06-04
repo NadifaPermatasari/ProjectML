@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import tensorflow as tf
+import tflite-runtime as tf
 from PIL import Image
 
 # Fungsi load model TFLite
